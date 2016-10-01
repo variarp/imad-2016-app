@@ -6,6 +6,6 @@ mainText.innerHTML='New from Source';
 
 //Move image
 var img = document.getElementById('madi');
-img.onClick=function(){
+img.onclick=function(){
    img.style.marginLeft="100px";
 }
